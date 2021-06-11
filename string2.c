@@ -1,7 +1,8 @@
 /* This program prompts the user for input
    and outputs what was entered twice using
-   functions two output the original string
-   and the strcpy function                  */
+   functions to output the original string,
+   and the strcpy function outputs two                   
+   additional lines of the input            */
 
 #include <stdio.h>
 #include <string.h>
